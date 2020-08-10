@@ -3,68 +3,64 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Here you'll find high quality game design resources - for both video games and board/tabletop games - written and shared under the open source **Creative Commons license (CC BY-SA 4.0)**.
+Welcome to ***Zelda Archaeology*** *(ZA)*, a central location that takes *Zelda* theories seriously - all written and shared under the open source **Creative Commons license (CC BY-SA 4.0)**.
 
-- Game analysis and breakdowns
-- Game design theory
-- Game design mechanisms
-- Game design exercises and courses
-- Studies, articles, videos, talks
-- Textbooks, scholarly papers
-- Lists of external resources like recommended books, conventions, programs, etc.
+Here, we as the *Zelda* fan community dig deep into the internet's unofficial - often non-canon - *Zelda* theories and compile them into an easy to reference format.
+Across multiple phases, we'll ① collect and organize here on GitHub, ② publish them to an accessible website, and ③ finally craft them into a beautiful physical compendium of books akin to the [*Master Works*](https://zelda.gamepedia.com/The_Legend_of_Zelda:_Breath_of_the_Wild_–_Creating_a_Champion) reference book - potentially sold through Kickstarter or equivalent.
+
+We're a group of archaeologists, collectively traversing the rich worlds of *The Legend of Zelda* series - making sense of our ever expanding insights into the best video game series on the planet.
 
 ## Project Motivation
 
-When doing a Google search for '[game design](http://google.com/#q=game+design)' as of January 2020, the results skew heavily toward accredited degrees and expensive training programs.
-Very few of the results are for helping people actually learn how to design games.
-Game design is a very experimental and iterative process.
-It's important to tinker with game systems in your free time, not just once you decide to go to college to work on games.
+New *The Legend of Zelda* games are only released every few years.
+In between those milestone events, fans keep the *Zelda* excitement alive by sharing news and rumors about upcoming releases, creating art and discussing the finer details of each game.
 
-Good resources for learning game design *do* exist, but they're scattered across personal blogs, reddit, GDC talks, YouTube videos, books and many other places.
-There currently does not exist a singlular place for high quality resources that's also accessible for aspiring and professional game designers.
+Some of the best *Zelda* content on the web are the increasingly in-depth fan theories.
+These theories highlight details that are seldom explicit within the games themselves, weaving together a rich tapestry of depth of story and lore that transcend the games themselves.
+Often pushing up against official canon by inferring details not explicitly stated - or even intended - by *Nintendo*, this dedicated community of *Zelda* fans find patterns casual players typically don't see.
 
-Here at the *Austin School of Game Design (ASGD)*, we feel that game design is an important field of study for the future development of the world.
-The principles learned from studying games and play has far reaching implications in education, politics, cultural dynamics, social structures, and motivativion (to name a few).
+Sometimes, these theories take on canonical meaning when *Nintendo* adopts them officially - for example, the hotly debated official *Zelda* timeline was originally an elaborate fan theory.
+While at other times, fan favorite theories are cast by the wayside as new games are released and core pillars of those theories are dismantled by the newly integrated official canon.
 
-Despite game design's importance, we don't even have a strong distinction between game design and game development within the industry itself.
-Part of that is, of course, the cultural misunderstanding around the importance of play and its inherent value.
-But it's also that we, as proponents of game design, are also not very good at documenting and sharing the insights we've made.
+But that's part of the fun of debating and developing *Zelda* theories!
 
-Documenting games designs is a hard, fairly subjective, process.
-Because of this, it's easier to keep the hard-to-explain concepts in our heads than to document them for shared understanding.
+The ever shifting landscape of theories are scattered all over the internet in nearly every format imaginable.
+They're discussed in forums dating back to pre-social times.
+Legacy *Zelda* themed IRC channels gave way to Discord and Slack channels.
+They're fleshed out on Facebook, Twitter, and whatever else the kids are doing these days.
+You'll find them on Reddit, blogs, fan wikis and YouTube.
 
-Our hope is that *ASGD* can be a catalyst in making that change.
-We believe that by sharing our insights, holding each other up to a standard of quality rather than a specific kind of design mentality, we can help one another shoot far higher than if we continued to do it in a fractured way.
+But in every case, there's no central location dedicated to compiling the theories themselves.
+
+***Zelda Archaeology*** is that central location.
 
 ## Project Vision
 
-While the process outlined below will most certainly be more organic than the documentation makes it feel, there are a few milestones - or phases - that will indicate when we've reached some critical mass.
+While the process outlined below will most be more organic than the documentation makes it feel, here are the high level phases that indicate progress.
 
-### Phase 1
+### Phase 1  - Collecting and Organizing (Current Phase)
 
-In the beginning, the focus of *ASGD* is to collect and organize a large body of high quality game design resources.
-This will be done through making partnerships with both professional and amateur game designers willing to contribute their thoughts and processes to *ASGD*'s open sourced repository.
+The first step is to get a good idea of the landscape. We'll need all the help we can get (see how to CONTRIBUTE below) as we scour the internet, compiling huge lists of locations that discuss specific *Zelda* theories.
+Then we'll collectively organize that list into categories that make sense so we can dive into **Phase 2**.
 
-You know how it is... it's an open source project!
+### Phase 2 - Writing and Online Publishing
 
-### Phase 2
+We'll rewrite all of those theories (yes, all of them) in a consistent format and voice ready for publishing.
+Then we'll build a public friendly version controlled website to publish everything to, keeping every original reference intact like the caring and responsible researchers we are.
 
-When there's enough traction and mass within the open sourced documentation, we'll begin sponsoring and organizing community events around fleshing out the portions of our internal resources that aren't up to snuff.
-We'll also look at building up community traction by speaking at conventions, participating on panels, working with higher-profile YouTubers, etc.
-Any additional ideas and efforts here would be much appreciated!
+### Phase 3 - Physical Publishing
 
-### Phase 3
+There's no telling how large this project will end up being, but It's easy to imagine it could span multiple books.
+We'll bring in artists, print designers and publishing experts to create physical books for your bookshelf - all organized in a way that you're proud to display.
 
-And the final phase is to establish *ASGD* as an actual game design school.
-This would involve looking into creating online courses, physical location(s), accreditation, etc.
-We'll be using our resources to help create textbooks, become integral in influencing industry norms, sponsor game design jams, and open doors for those wanting to be a force in the game design industry.
+These books can be sold by anyone through an affiliate program, with the proceeds distributed fairly to everyone who has contributed to the creation of the content.
 
 ## Contribute
 
-*ASGD* is built by a group of passionate game design nerds that want to make game design more accessible.
-Everything here has been written and contributed by everyday normal folks like you.
+*ZA* is an open source project - entirely built by you - a special breed of passionate *Zelda* fans that want to share the depth of the worlds you love.
+There is no central authority or gatekeeper - which wouldn't even make sense.
 
-If you've ever done a game analysis, designed a board game, GM'd a tabletop game in a unique way, written a game design blog, or anything of the sort, you're exactly the kind of person that will make the *Austin School of Game Design* grow and thrive.
+If you've ever lurked on forums, put up a blog post, posted a comment, talked to a friend or made a YouTube video about a *Zelda* theory, *we need you*!
 
 Check out our [step-by-step contributor guide](/CONTRIBUTOR.md) for more details when you're ready!
 
@@ -91,6 +87,6 @@ You may do so in any reasonable manner, but not in any way that suggests the lic
 >
 > ***No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.*
 
-Please feel free to use the content here in your YouTube videos, blog posts, talks, books, research, articles, your business, your non-profit, and whatever else.
-All we ask is that you give credit where credit is due, and apply the same rights to your original work.
-This helps foster the love of open source, and can create a wildfire effect for game design thinking.
+In summary, please feel free to use the content posted here in your YouTube videos, blog posts, talks, books, research, articles, your business, your non-profit, and whatever else.
+All we ask is that you give credit where credit is due, and apply the same **CC BY-SA 4.0** rights to *your* original work as well.
+This helps foster the love of open source, and the spreading wildfire effect of open sharing.
