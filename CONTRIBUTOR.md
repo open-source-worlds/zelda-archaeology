@@ -41,7 +41,7 @@ By participating in this project you agree to abide by its terms.**
 ## Join the Conversation
 
 Now that we've covered the ground rules, it's time for us to get to know each other.
-We have two official places set up to talk. Both places are great for getting to know other game design nerds.
+We have two official places set up to talk. Both places are great for getting to know other *Zelda* fans.
 
 1. The first is in the [Issues](https://github.com/wScottSh/zelda-archaeology/issues)  section of GitHub.
 When you have an idea of something you want to contribute, open up an Issue and start a conversation.
@@ -50,7 +50,7 @@ We're always happy to see new faces and learn what brought you our way.
 
 ## How to Use GitHub
 
-There's a lot of jargon around GitHub that takes some to get used to if you're not familiar with it.
+There's a lot of jargon around GitHub that takes some time to get used to if you're not familiar with it.
 In this section we'll go over some of the common terms and how we use them at *ZA*.
 
 > ### If you already know how to use GitHub (TL;DR):
@@ -60,7 +60,7 @@ In this section we'll go over some of the common terms and how we use them at *Z
 > Broadly, you can think of Issues as the *ZA* forums.
 >
 > [**Pull Requests**](https://github.com/wScottSh/zelda-archaeology/pulls) are where we keep all new written content for publishing.
-> The first step when working on something new is to make a new branch and open a 'Draft Pull Request'.
+> The first step when working on something new is to Fork the *ZA* repo and open a 'Draft Pull Request'.
 > This makes reviewing and collaborating so much easier.
 
 For everyone else - that is, you're new to using GitHub - a brief explanation is in order.
@@ -92,21 +92,20 @@ More about Issues and Pull requests in the next section.
 
 ### Start conversations by creating an 'Issue'
 
-Don't let the name fool you, [Issues](https://github.com/wScottSh/zelda-archaeology/issues) is the most powerful comment and discussion tool ever made.
-The name comes from their original purpose - to keep track of software bugs - so the tool has lots of built-in capabilities for expressing that level of detail.
+Don't let the name fool you, the [Issues](https://github.com/wScottSh/zelda-archaeology/issues) section of GitHub is the most powerful comment and discussion tool ever made.
+The name comes from its original purpose - to keep track of software bugs - so the tool has lots of built-in capabilities for expressing that level of detail.
 
 Which is lucky for us, because even though we're not discussing software changes, we *are* discussing detailed concepts that sometimes need more than mere words.
 So even though they're called Issues, know that Issues are a place to have conversations related to *ZA*.
 
 If you have an idea, do a quick search in the [Issues](https://github.com/wScottSh/zelda-archaeology/issues).
-The search feature is very powerful.
-And the tags assigned to different threads are there to help sort through everything.
+The search feature is very powerful, and the tags assigned to different threads are there to help sort through everything.
 
 If you find something already there, go ahead and add your voice to the conversation.
 If you don't find what you're looking for, go ahead and start a new thread by clicking the big '**New Issue**' button.
 
 Some open source projects lock down the Issues for very specific kinds of discussions.
-For *ZA* though, we feel that Issues are a fantastic place to have more general conversations.
+Here at *ZA* though, we feel that Issues are a fantastic place to have more general conversations.
 And if there are specific things to note, like typos or feature requests, those can easily be highlighted and filtered via tags.
 
 What I'm saying is, don't shy away from creating [Issues](https://github.com/wScottSh/zelda-archaeology/issues).
@@ -116,7 +115,7 @@ They're there to keep conversations organized and focused, not to limit the amou
 
 ### Work In Progress (WIP) goes in a 'Pull Request'
 
-If Issues are for discussions, then [Pull Requests](https://github.com/wScottSh/zelda-archaeology/pulls) are where we keep our actual work that's in progress.
+If Issues are for discussions, then [Pull Requests](https://github.com/wScottSh/zelda-archaeology/pulls) are where we keep track of our actual work that's in progress.
 Transparency is key in an open source project, and keeping drafts visible for review is a great way to embrace that idea.
 
 Once your drafts are ready for submission, a simple change in a dropdown menu tells contributors that you're ready to have your contribution reviewed and merged into the rest of the project.
@@ -125,14 +124,14 @@ We'll go into workflows in the next section, so I won't get more detailed here.
 Just know that a [Pull Request](https://github.com/wScottSh/zelda-archaeology/pulls) is where you request that someone pulls your draft into the public repository.
 
 Typically, new content starts as a discussion in an Issue (though not always).
-And then once it's clear about the work that needs to be done, and someone starts actually working on it, a draft Pull Request is opened.
+Once everyone's clear about the work that needs to be done, and someone decides to actually work on it, a draft Pull Request is opened.
 
 ### GitHub workflow
 
 We understand the differences between an Issue and a Pull Request.
 Now we need to know how to actually open Issues and Pull Requests.
 
-You'll create a Pull Request any time you wrote brand new content, fix someone else's typo, make a canonical correction, add an iamge. Literally any change to the content of the site will go through this Pull Request process.
+You'll create a Pull Request any time you write brand new content, fix someone else's typo, make a canonical correction or add an image. Literally any change to the content of the site will go through this Pull Request process.
 
 > Fair warning, this is probably the most complicated part of GitHub.
 > I'm not going to sugar coat it.
@@ -228,7 +227,7 @@ You can put it on your resume, and look real cool to hiring managers.
 
 ## Formatting and Styling
 
-Everything here is written in plain-text using Markdown for formatting.
+Everything on *ZA* is written in plain-text using Markdown for formatting.
 This may take a bit of getting used to at first, but we've got you covered.
 
 If you're a software developer, there are some fantastic Markdown tools built into your IDE.
@@ -294,7 +293,7 @@ So by breaking paragraphs into individual lines, we allow GitHub to track change
 
 A double line break is used instead of a single line break to create new paragraphs.
 
-And in case you were wondering, the above two paragraphs look like this behind the scenes:
+And in case you were wondering, the above two paragraphs look like this behind the scenes. Note how the first paragraph is on three separate lines:
 
 ```markdown
 GitHub tracks changes to all documents across time, along with the person that made those changes.
@@ -341,5 +340,9 @@ There are three required elements to each filename.
   
   Okay, I know that was a lot to take in.
   But never fear, I wrote this as a continuing reference, not as a one-off page for you to read and memorize.
+  
+  Also, when you open a Pull Request, the maintainer (such as myself) are there to catch any formatting or style errors.
+  Try to catch it yourself, but don't stress too hard.
+  The worst thing that could happen is that we ask you to rename a file or two before approving the Pull Request.
   
   If you need any additional help, remember you can always jump into the [Issues](https://github.com/wScottSh/zelda-archaeology/issues) section (either by searching or asking yourself). Or you can drop your questions over on [Discord](https://discord.gg/PgebRQw) if that's more your speed.
