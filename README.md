@@ -16,11 +16,11 @@ We just want to share our love of the best video game series ever, in a way that
 ## Project Motivation
 
 New *Legend of Zelda* games are released only every few years.
-In between those milestone events, it's the fans keep the *Zelda* excitement alive by sharing every scrap of news or rumors about upcoming releases, creating art and discussing the finer details of each game.
+In between those milestone events, it's the fans that keep the *Zelda* excitement alive by sharing every scrap of news or rumors about upcoming releases, creating art and discussing the finer details of each game.
 
 Some of the best *Zelda* content on the web are the increasingly in-depth fan theories.
 These theories highlight details that are seldom explicit within the games themselves, weaving together a rich tapestry of depth that transcend the games themselves.
-A sort of meta-analysis of the series as a whole, rather than focusing on the canonical events of each game.
+A sort of meta-analysis of the series as a whole, rather than focusing on the canonical events of each game individually.
 Often pushing up against official canon by inferring details not explicitly stated - or even intended - by *Nintendo*, this dedicated community of *Zelda* fans find patterns casual players typically don't see.
 
 Sometimes, these theories take on canonical meaning when *Nintendo* adopts them officially - for example, the official *Zelda* timeline was originally an elaborate fan theory.
@@ -35,9 +35,9 @@ They're fleshed out on Facebook, Twitter, and whatever else the cool kids are do
 You'll find them on Reddit, blogs, fan wikis and YouTube.
 
 There's a huge world of theories out there, so many that it's hard to keep track of them all.
-And while every other website focuses on "*Zelda* facts," - the canonical events from the games and explicit statements made by *Nintendo* through official channels - I feel like the well thought out *Zelda* theories are where the most interesting content resides.
+And while many other congregating websites focus on "*Zelda* facts," - the canonical events from the games and explicit statements made by *Nintendo* through official channels - I feel like the well thought out *Zelda* theories are where the most interesting content resides.
 
-***Zelda Archaeology*** is the central location for the theories.
+***Zelda Archaeology*** is the central location for these theories.
 
 ## Project Vision
 
@@ -51,7 +51,7 @@ Then we'll collectively organize that list into categories that make sense, gett
 ### Phase 2 - Writing and Online Publishing
 
 We'll rewrite all of those theories (yes, all of them) in a consistent format and voice, ready for publishing online.
-Then we'll build a public friendly version controlled website to publish everything to, keeping every original reference intact like the caring and responsible researchers we are.
+Then we'll build a public friendly version controlled website to publish everything, keeping every original reference intact like the caring and responsible researchers we are.
 In a community effort like this, the original creators of the ideas in a Discord channel are just as important as the final YouTubers that make it known to their thousands of subscribers.
 
 ### Phase 3 - Physical Publishing
@@ -63,8 +63,8 @@ These books will be sold by anyone through an affiliate program, with the profit
 
 ## Contribute
 
-*ZA* is an open source project - built entirely by you - a special breed of passionate *Zelda* fan that wants to share and expand on the depth of the worlds you love to live in.
-There is no central authority or gatekeeper, only maintainers of quality.
+*ZA* is an open source project - built entirely by you - a special breed of passionate *Zelda* fan that wants to share the beauty of the legendary worlds you love.
+There is no central authority or gatekeeper here, only maintainers of quality standards.
 
 So if you've ever lurked on forums, put up a blog post, posted a comment, talked to a friend or made a YouTube video about a *Zelda* theory, *we need you!*
 
@@ -95,4 +95,4 @@ You may do so in any reasonable manner, but not in any way that suggests the lic
 
 In summary, please feel free to use the content posted here in your YouTube videos, blog posts, talks, books, research, articles, your business, your non-profit, and whatever else.
 All we ask is that you give credit where credit is due, and apply the same **CC BY-SA 4.0** rights to *your* original work as well.
-This helps foster the love of open source, placing the emphasis on community sharing.
+This helps foster the love of open source, placing the emphasis squarely on community sharing - as it should be.
