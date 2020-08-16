@@ -43,7 +43,7 @@ By participating in this project you agree to abide by its terms.**
 Now that we've covered the ground rules, it's time for us to get to know each other.
 We have two official places set up to talk. Both places are great for getting to know other *Zelda* fans.
 
-1. The first is in the [Issues](https://github.com/wScottSh/zelda-archaeology/issues)  section of GitHub.
+1. The first is in the [Issues](https://github.com/open-lore/zelda-archaeology/issues)  section of GitHub.
 When you have an idea of something you want to contribute, open up an Issue and start a conversation.
 1. For less formal conversations, jump into the [*Zelda Archaeology* Discord channel](https://discord.gg/PgebRQw).
 We're always happy to see new faces and learn what brought you our way.
@@ -55,11 +55,11 @@ In this section we'll go over some of the common terms and how we use them at *Z
 
 > ### If you already know how to use GitHub (TL;DR):
 >
-> *ZA* uses [**Issues**](https://github.com/wScottSh/zelda-archaeology/issues) as the place for permanent discussion, as well as for making suggestions for updates, requests and typo fixes.
+> *ZA* uses [**Issues**](https://github.com/open-lore/zelda-archaeology/issues) as the place for permanent discussion, as well as for making suggestions for updates, requests and typo fixes.
 > They're organized by tags to keep things orderly.
 > Broadly, you can think of Issues as the *ZA* forums.
 >
-> [**Pull Requests**](https://github.com/wScottSh/zelda-archaeology/pulls) are where we keep all new written content for publishing.
+> [**Pull Requests**](https://github.com/open-lore/zelda-archaeology/pulls) are where we keep all new written content for publishing.
 > The first step when working on something new is to Fork the *ZA* repo and open a 'Draft Pull Request'.
 > This makes reviewing and collaborating so much easier.
 
@@ -92,13 +92,13 @@ More about Issues and Pull requests in the next section.
 
 ### Start conversations by creating an 'Issue'
 
-Don't let the name fool you, the [Issues](https://github.com/wScottSh/zelda-archaeology/issues) section of GitHub is the most powerful comment and discussion tool ever made.
+Don't let the name fool you, the [Issues](https://github.com/open-lore/zelda-archaeology/issues) section of GitHub is the most powerful comment and discussion tool ever made.
 The name comes from its original purpose - to keep track of software bugs - so the tool has lots of built-in capabilities for expressing that level of detail.
 
 Which is lucky for us, because even though we're not discussing software changes, we *are* discussing detailed concepts that sometimes need more than mere words.
 So even though they're called Issues, know that Issues are a place to have conversations related to *ZA*.
 
-If you have an idea, do a quick search in the [Issues](https://github.com/wScottSh/zelda-archaeology/issues).
+If you have an idea, do a quick search in the [Issues](https://github.com/open-lore/zelda-archaeology/issues).
 The search feature is very powerful, and the tags assigned to different threads are there to help sort through everything.
 
 If you find something already there, go ahead and add your voice to the conversation.
@@ -108,20 +108,20 @@ Some open source projects lock down the Issues for very specific kinds of discus
 Here at *ZA* though, we feel that Issues are a fantastic place to have more general conversations.
 And if there are specific things to note, like typos or feature requests, those can easily be highlighted and filtered via tags.
 
-What I'm saying is, don't shy away from creating [Issues](https://github.com/wScottSh/zelda-archaeology/issues).
+What I'm saying is, don't shy away from creating [Issues](https://github.com/open-lore/zelda-archaeology/issues).
 They're there to keep conversations organized and focused, not to limit the amount or kinds of communication.
 
-> **Come introduce yourself in the [official Introductions thread](https://github.com/wScottSh/zelda-archaeology/issues/1)!**
+> **Come introduce yourself in the [official Introductions thread](https://github.com/open-lore/zelda-archaeology/issues/1)!**
 
 ### Work In Progress (WIP) goes in a 'Pull Request'
 
-If Issues are for discussions, then [Pull Requests](https://github.com/wScottSh/zelda-archaeology/pulls) are where we keep track of our actual work that's in progress.
+If Issues are for discussions, then [Pull Requests](https://github.com/open-lore/zelda-archaeology/pulls) are where we keep track of our actual work that's in progress.
 Transparency is key in an open source project, and keeping drafts visible for review is a great way to embrace that idea.
 
 Once your drafts are ready for submission, a simple change in a dropdown menu tells contributors that you're ready to have your contribution reviewed and merged into the rest of the project.
 
 We'll go into workflows in the next section, so I won't get more detailed here.
-Just know that a [Pull Request](https://github.com/wScottSh/zelda-archaeology/pulls) is where you request that someone pulls your draft into the public repository.
+Just know that a [Pull Request](https://github.com/open-lore/zelda-archaeology/pulls) is where you request that someone pulls your draft into the public repository.
 
 Typically, new content starts as a discussion in an Issue (though not always).
 Once everyone's clear about the work that needs to be done, and someone decides to actually work on it, a draft Pull Request is opened.
@@ -345,4 +345,4 @@ There are three required elements to each filename.
   Try to catch it yourself, but don't stress too hard.
   The worst thing that could happen is that we ask you to rename a file or two before approving the Pull Request.
   
-  If you need any additional help, remember you can always jump into the [Issues](https://github.com/wScottSh/zelda-archaeology/issues) section (either by searching or asking yourself). Or you can drop your questions over on [Discord](https://discord.gg/PgebRQw) if that's more your speed.
+  If you need any additional help, remember you can always jump into the [Issues](https://github.com/open-lore/zelda-archaeology/issues) section (either by searching or asking yourself). Or you can drop your questions over on [Discord](https://discord.gg/PgebRQw) if that's more your speed.
